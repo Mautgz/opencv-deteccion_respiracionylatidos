@@ -1,4 +1,4 @@
-Detección Respiración con CV2
+Detección Respiración y latidos con CV2
 Una demostración sencilla de la detección la respiración humanos usando una region de interes en esta instancia la cara de la persona infiriendo en los latidos del corazon y usando Opencv con una webcam.
 
 Instalación:
